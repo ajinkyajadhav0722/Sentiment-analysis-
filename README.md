@@ -5,6 +5,8 @@ Loaded the dataset and checked its shape and feature names.
 Identified and handled any missing values, specifically dropping rows with null values.
 Data Cleaning and Preprocessing:
 
+
+
 Added a new column to calculate the length of the reviews.
 Explored the distribution of ratings and feedback, visualizing them using bar charts and pie charts.
 Text Analysis and Visualization:
